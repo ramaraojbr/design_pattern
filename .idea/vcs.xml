@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/creational/abstract_factory_cdp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/creational/builder_cdp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/creational/factory_cdp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/creational/prototype_cdp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/creational/singleton_cdp" vcs="Git" />
+  </component>
+</project>
